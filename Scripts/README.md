@@ -62,7 +62,7 @@ Investigate Monthly Revenue & Customer Trends (3 Month Rolling Average)
 <img src="..\images\5.2_monthly_revenue_customers_3mo.png" alt="Monthly Revenue & CustomerTrends" width="50%">  
 
 📊 **Key Findings:**  
-- Customer revenue is declining, older cohorts (2016-2018) spent ~$2,800+, while 2024 cohort spending dropped to ~$1,970.  
+- Customer revenue is declining, older cohorts (2016-2018) spent ~$2,800+. Estimated cohort spending decreased to around $1,970 per customer in 2024..  
 - Revenue and customers peaked in 2022-2023, but both are now trending downward in 2024.  
 - High volatility in revenue and customer count, with sharp drops in 2020 and 2024, signaling retention challenges.  
 
